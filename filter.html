@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style/filter.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="filter-modal">
+        <div class="head">
+            <span class="close-modal">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M5.29289 5.29289C5.68342 4.90237 6.31658 4.90237 6.70711 5.29289L12 10.5858L17.2929 5.29289C17.6834 4.90237 18.3166 4.90237 18.7071 5.29289C19.0976 5.68342 19.0976 6.31658 18.7071 6.70711L13.4142 12L18.7071 17.2929C19.0976 17.6834 19.0976 18.3166 18.7071 18.7071C18.3166 19.0976 17.6834 19.0976 17.2929 18.7071L12 13.4142L6.70711 18.7071C6.31658 19.0976 5.68342 19.0976 5.29289 18.7071C4.90237 18.3166 4.90237 17.6834 5.29289 17.2929L10.5858 12L5.29289 6.70711C4.90237 6.31658 4.90237 5.68342 5.29289 5.29289Z" fill="#474747"/>
+                  </svg>
+            </span>
+        </div>
+        <div class="modal-body">
+            <div class="filter-item">
+                <button class="accordion ">Модель</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Все</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Free">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Voyah Free</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Voyah Dream</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Voyah Passion</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Комплектация</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Все</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Free">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Комплектация 1</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Комплектация 2</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="filter-item">
+                <button class="accordion active">Состояние</button>
+                <div class="panel active">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Новый</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Б/у</span>
+                        </label>
+                    </div>
+                </div>
+            </div> -->
+            <div class="filter-item">
+                <button class="accordion ">Батарея</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Все</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Free">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Батарея 1</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Батарея 2</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Запас хода</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Все</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Free">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>значение 1</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>значение 2</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item price">
+                <button class="accordion active">Мощность</button>
+                <div class="panel active">
+                    <div class="price-inputs">
+                        <input type="text" placeholder="от" readonly class="price-from">
+                        <div class="line"></div>
+                        <input type="text" placeholder="до" readonly class="price-to">
+                    </div>
+                    <div class="price-slider">
+                        <div class="slider-track"></div>
+                        <input type="range" class="price-slider-1 price-slider" min="0" max="100" value="0" >
+                        <input type="range" class="price-slider-2 price-slider" min="0" max="100" value="100">
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Год</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Все</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Free">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>2022</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" value="Dream">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>2023</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item price">
+                <button class="accordion active">Цена</button>
+                <div class="panel active">
+                    <div class="price-inputs">
+                        <input type="text" placeholder="от" readonly class="price-from">
+                        <div class="line"></div>
+                        <input type="text" placeholder="до" readonly class="price-to">
+                    </div>
+                    <div class="price-slider">
+                        <div class="slider-track"></div>
+                        <input type="range" class="price-slider-1 price-slider" min="0" max="100" value="0" >
+                        <input type="range" class="price-slider-2 price-slider" min="0" max="100" value="100">
+                    </div>
+                </div>
+                
+            </div>
+            <!-- <div class="filter-item">
+                <button class="accordion active">КПП</button>
+                <div class="panel active">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Механическая</span>
+                        </label>
+                    </div>
+                </div>
+            </div> -->
+            <div class="filter-item">
+                <button class="accordion ">Привод</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Полный</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Передний</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Тип кузова</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>кроссовер</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>седан</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Тип автомобиля</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>двс</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>электромобиль</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>гибрид</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">модификация авто</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>long</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>7 мест</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Дилер</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Минск, ул.Машиностроителей 9</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Минск, Каменногорская 11</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-item">
+                <button class="accordion ">Цвет</button>
+                <div class="panel ">
+                    <div class="item-checkboxes">
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>белый</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox"  value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>чёрный</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked value="all">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>синий</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <span class="close-modal show-filtered">Показать</span>
+        </div>
+    </div>
+    <section class="filter">
+        <div class="content">
+            <div class="filter-box">
+                <div class="filter-variables">
+                    <div class="filter-item condition">
+
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" checked name="c1" >
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Новый</span>
+                        </label>
+                        <label class="custom-checkbox">
+                            <input class="hidden-checkbox" type="checkbox" name="c2">
+                            <span class="checkbox">
+                                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                            </span>
+                            <span>Б/у</span>
+                        </label>
+                    </div>
+                    <span class="filter-btn">Фильтр</span>
+                </div>
+                <div class="filter-body">
+                    <div class="sort">
+                        <div class="sort-btn">
+                            <span>Сортировать по цене:</span>
+                        </div>
+                    </div>
+                    <div class="car-cards">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="./src/js/swiper@10.3.1_swiper-bundle.min.js"></script>
+    <script src="./src/js/script.js"></script>
+</body>
+</html>

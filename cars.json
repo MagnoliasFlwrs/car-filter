@@ -1,0 +1,548 @@
+[
+    {
+        "model" : "Dream",
+        "modification" : "Flagship + ",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/10/белый_наличие-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/09/11block_3.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "DHT | 394 л.с",
+            "запас хода 750 км / 82 км (WLTP)",
+            "полный (4WD)",
+            "минивэн | 7 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "350 000 BYN",
+        "saleMessage" : "с НДС 20%",
+        "saleIcon" : false,
+        "salePopup" : null,
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Dream",
+        "modification" : "Flagship + ",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/10/черный_наличие-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/09/11block_3.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "DHT | 394 л.с",
+            "запас хода 750 км / 82 км (WLTP)",
+            "полный (4WD)",
+            "минивэн | 7 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "350 000 BYN",
+        "saleMessage" : "с НДС 20%",
+        "saleIcon" : false,
+        "salePopup" : null,
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Dream",
+        "modification" : "Flagship + ",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/10/черный_наличие-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/09/11block_1.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "DHT | 394 л.с",
+            "запас хода 750 км / 82 км (WLTP)",
+            "полный (4WD)",
+            "минивэн | 7 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "350 000 BYN",
+        "saleMessage" : "с НДС 20%",
+        "saleIcon" : false,
+        "salePopup" : null,
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free",
+        "modification" : "EVR Flagship +",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/07/H97_LBLU.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2022",
+        "instok" : false,
+        "params" : [
+            "EVR | 694 л.с",
+            "запас хода 860 / 140км (NEDC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "168 000 BYN",
+        "saleMessage" : false,
+        "saleIcon" : false,
+        "salePopup" : null,
+        "location": "Минск, пр-т Партизанский, 162", 
+        "isReserved":false
+    },
+    {
+        "model" : "Free",
+        "modification" : "EVR Flagship +",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/07/H97_BLA.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Слоновая-кость-с-коричн.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 694 л.с",
+            "запас хода 860 / 140км (NEDC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "177 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/gray-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/черный.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/черный.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Коричнево-красный-с-кремовыми.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Коричнево-красный-с-кремовыми.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/gray_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : true,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship +",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Черный-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "203 000 BYN",
+        "saleMessage" : "192 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 11 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship +",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/gray_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Коричнево-красный-с-кремовыми.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "203 000 BYN",
+        "saleMessage" : "192 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 11 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/lblue_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/deepblue-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/черный.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    }, 
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship +",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "203 000 BYN",
+        "saleMessage" : "192 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 11 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/deepblue-discont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Коричнево-красный-с-кремовыми.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    }, 
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/black_reserved.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Черный-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":true
+    },
+    {
+        "model" : "Free Long Range",
+        "modification" : "Flagship",
+        "modelImage": "https://voyah.by/wp-content/uploads/2023/09/white_dicont.png",
+        "modelSalon": "https://voyah.by/wp-content/uploads/2023/08/Бежевый-с-темносиним.jpg",
+        "year": "2023",
+        "instok" : false,
+        "params" : [
+            "EVR | 490 л.с",
+            "запас хода 960 / 205км (CLTC)",
+            "полный (4WD)",
+            "кроссовер | 5 мест"
+        ],
+        "paramsIcons" : [
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-694-силы.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-860-км.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-привод.svg",
+            "https://voyah.by/wp-content/uploads/2023/06/иконка-кроссовер.svg"
+        ],
+        "price" : "196 000 BYN",
+        "saleMessage" : "184 000 BYN",
+        "saleIcon" : true,
+        "salePopup" : "Выгода 12 000 и кредит 7,9% при покупке в сентябре",
+        "location": "Минск, пр-т Партизанский, 162",
+        "isReserved":false
+    }
+]
